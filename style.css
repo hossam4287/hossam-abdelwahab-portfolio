@@ -375,7 +375,7 @@ body {
 }
 
 .profile-card-3d {
-    background: var(--bg-secondary);
+    background: rgb(224, 219, 219);
     border: 1px solid var(--border);
     border-radius: 20px;
     padding: 2rem;
