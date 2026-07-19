@@ -3,7 +3,7 @@
 // ==========================================================================
 const typingText = document.querySelector('.typing-text');
 const texts = [
-    'Full Stack Developer',
+    'Front End Developer',
     'React Specialist',
     'Laravel Enthusiast',
     'Problem Solver'
